@@ -1,0 +1,37 @@
+missing module named PySide - imported by c:\program files\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named 'win32com.gen_py' - imported by win32com, c:\program files\anaconda3\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named resource - imported by posix, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named posix - imported by os, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named _posixsubprocess - imported by subprocess, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named 'org.python' - imported by pickle, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py, xml.sax
+missing module named ce - imported by os, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named clr - imported by pyreadline.clipboard.ironpython_clipboard, pyreadline.console.ironpython_console, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named IronPythonConsole - imported by pyreadline.console.ironpython_console, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named StringIO - imported by pyreadline.py3k_compat, six, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named System - imported by pyreadline.clipboard.ironpython_clipboard, pyreadline.keysyms.ironpython_keysyms, pyreadline.console.ironpython_console, pyreadline.rlmain, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named sets - imported by pyreadline.keysyms.common, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named startup - imported by pyreadline.keysyms.common, pyreadline.keysyms.keysyms, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named console - imported by pyreadline.console.ansi, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named _winreg - imported by platform, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named 'java.lang' - imported by platform, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named termios - imported by tty, getpass, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named urllib.quote - imported by urllib, asn1crypto._iri
+missing module named urllib.unquote - imported by urllib, asn1crypto._iri
+missing module named grp - imported by tarfile, shutil, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named _dummy_threading - imported by dummy_threading, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py, netrc
+missing module named org - imported by copy, D:\PythonWork\SomethingInteresting\LuYouQi\Connect.py
+missing module named cStringIO - imported by asn1crypto.core, paramiko.py3compat
+missing module named copy_reg - imported by cStringIO
+missing module named __builtin__ - imported by paramiko.py3compat
+missing module named UserDict - imported by asn1crypto._ordereddict
+missing module named urlparse - imported by asn1crypto._iri
+runtime module named six.moves - imported by cryptography.x509.general_name, cryptography.hazmat.backends.openssl.decode_asn1
+missing module named thread - imported by paramiko.win_pageant
+missing module named fcntl - imported by paramiko.agent
+missing module named gssapi - imported by paramiko.ssh_gss

@@ -1,0 +1,43 @@
+('./Connect/build\\Connect\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('out00-PYZ.pyz', './Connect/build\\Connect\\out00-PYZ.pyz', 'PYZ'),
+  ('struct', 'c:\\program files\\anaconda3\\lib\\struct.pyo', 'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt4plugins',
+   'c:\\program '
+   'files\\anaconda3\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_qt4plugins.py',
+   'PYSOURCE'),
+  ('Connect',
+   'D:\\PythonWork\\SomethingInteresting\\LuYouQi\\Connect.py',
+   'PYSOURCE'),
+  ('Connect.exe.manifest',
+   './Connect/build\\Connect\\Connect.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
